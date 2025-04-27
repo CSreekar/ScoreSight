@@ -1,5 +1,3 @@
-# Firebase Studio
+# ScoreSight
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Is your manuscript likely to hold keys to the next bestseller?? Lets find out!
